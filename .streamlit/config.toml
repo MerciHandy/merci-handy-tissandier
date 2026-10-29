@@ -1,0 +1,16 @@
+[theme]
+  base = "light"
+    primaryColor = "#B266FF"
+    backgroundColor = "#FFFFFF"
+    secondaryBackgroundColor = "#FBF7FF"
+    textColor = "#1F1233"
+    linkColor = "#B266FF"
+    font = "sans serif"
+
+    [client]
+    toolbarMode = "minimal"
+    showSidebarNavigation = true
+
+[browser]
+    gatherUsageStats = false
+    
